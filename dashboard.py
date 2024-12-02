@@ -36,3 +36,6 @@ plt.xlabel('Hari Libur (0: No, 1: Yes)')
 plt.ylabel('Average Rentals')
 plt.legend(['Mean', 'Standard Deviation'])
 st.pyplot(fig)
+
+
+#saya menaruh file ini di document root karena kesusahan untuk deploy di streamlit.
