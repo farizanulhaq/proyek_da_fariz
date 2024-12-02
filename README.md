@@ -9,8 +9,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir proyek_DA_fariz
+cd proyek_DA_fariz
 pipenv install
 pipenv shell
 pip install -r requirements.txt
